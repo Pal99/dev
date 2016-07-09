@@ -1,0 +1,7 @@
+module creator: http://www.techflirt.com/how-to-createn-custom-magento-module-step-by-step-tutorial/
+
+adding tabs: http://www.mydons.com/how-to-add-custom-tabs-to-magento-customer-edit-page/
+
+adding steps: http://excellencemagentoblog.com/blog/2011/10/10/magento-onestep-checkout-add-step/
+
+adding tabs in admin cusomer: http://www.nextbits.eu/blog/how-to-add-tab-in-customer-information-in-magento-admin/
